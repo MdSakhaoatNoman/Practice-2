@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #34abeb;
+  font-style: sans-serif;
+}
+.container{
+  text-align: center;
+  padding-top: 200px;
+  padding-left: 250px;
+  padding-right: 250px;
+  text-shadow: 1px;
+  box-shadow: 5px 10px;
+
+}
+.headline{
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 35px;
+  color: grey;
+}
+.container-2{
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-bottom: 500px;
+}
+.block-1 a{
+  }
+.block-1{
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.input-1{
+  background-color: lightgrey;
+  width: 250px;
+  height: 20px;
+  border-style: none;
+  padding: 15px;
+  margin: 10px;
+}
+.input-2{
+  background-color: lightgrey;
+  width: 250px;
+  height: 20px;
+  border-style: none;
+  padding: 15px;
+  margin: 10px;
+}
+.input-3{
+  margin: 30px;
+  font-size: 15px;
+  height: 50px;
+  width: 150px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: grey;
+  color: white;
+}
+.input-3:hover{
+  background-color: #34abeb;
+  cursor: pointer;
+  background-image: linear-gradient(#34abeb, #3493eb);
+}
+.password{
+  color: grey;
+  background-color: white;
+}
+.last{
+  text-align: center;
+  padding: 15px;
+  color: white;
+}
+.alast{
+  color: lightgrey;
+}
